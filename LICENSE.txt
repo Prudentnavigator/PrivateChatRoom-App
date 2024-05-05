@@ -1,0 +1,36 @@
+I hereby agree to use the Software (PrivateChatRoom-Server v1.0.0) solely for my
+ personal use and not for any commercial purposes. I understand that the
+ copyright to this software belongs to (Thomas Pirchmoser). By downloading,
+ installing, or using this software, I accept the terms and conditions
+ set forth below:
+
+1.  The Software may only be used for educational and non-commercial purposes.
+2.  Any copies of the Software must include the copyright notice "Copyright
+     (c) [2024] by (Thomas Pirchmoser), all rights reserved".
+3.  Any redistribution, modification, or reverse engineering of the Software
+     is prohibited without permission from (Thomas Pirchmoser).
+4.  I will not use the Software for any illegal purposes.
+5.  This software and its documentation are provided "as is" without warranty
+     of any kind, express or implied, including but not limited to the
+     warranties of merchantability, fitness for a particular purpose and
+     non-infringement. In no event shall (insert company name) be liable to
+     me or anyone else for any consequential damages, including but not limited
+     to lost profits or lost data.
+6.  I am solely responsible for all damage caused by the use of this
+     software. By using it, I agree to hold (Thomas Pirchmoser) harmless
+     from any and all liability, both legal and civil, that may arise as a result
+     of my use of it.
+7.  The user is solely responsible for ensuring that the Software works
+     correctly with their system specifications and configuration.
+8.  Any modifications to the software must be properly attributed to (Thomas
+     Pirchmoser) and any derivative work must include the appropriate
+     copyright notice and disclaimer.
+9.  I agree not to redistribute, resell or transfer the Software to third
+     parties without the express permission of (Thomas Pirchmoser).
+10. This license agreement is effective until terminated by either party. If
+     you wish to terminate this agreement, notify (Thomas Pirchmoser) in
+     writing within a reasonable time period.
+
+By agreeing to these terms, I understand that I may be held liable for any
+   damage caused by my use of the Software and agree to assume full
+   responsibility for such damages.
