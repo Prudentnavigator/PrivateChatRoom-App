@@ -96,7 +96,7 @@ class Client():
         # Creating the main window.
         Client.win = tkinter.Tk()
         Client.win.title("PrivateChatRoom-App v1.0.0")
-        Client.win.geometry("685x770")
+        Client.win.geometry("685x780")
 
         # Create a frame.
         frame = tkinter.Frame(Client.win)
