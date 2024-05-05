@@ -1,4 +1,5 @@
 PrivateChatRoom-App v1.0.0
+
 This application allows users to communicate privately in real time
  using TCP socket programming in Python.
 It is designed to be used with the 'PrivateChatRoom-Server'.
