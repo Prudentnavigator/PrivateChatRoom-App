@@ -24,9 +24,9 @@ Requirements:
 Note:
 1. The color of the App is red if there is no internet connection and/or
     the App is not connected to the server.
-    (see 'no_internet.png' and 'not_connected_to_server.png')
+    ('no_internet.png' and 'not_connected_to_server.png')
 3. When a connection with the server is established the color of the App is green.
-    (see 'chat.png')
+    ('chat.png')
 5. The App logs info for troubleshooting purposes only and does not log messages
     that have been send or received.
     Once the App is closed, the messages disappear.
@@ -37,9 +37,9 @@ Features:
 - Ipv4 address and port number used to connect to the server are displayed
    in the GUI.
 - Set ipv4 address button to change the ip address.
-   (see 'set_ipv4_address.png')
+   ('set_ipv4_address.png')
 - Set port button to change the port number.
-   (see 'set_port.png')
+   ('set_port.png')
 - A display that indicates the amount of users in the chat.
 - A scrolled text field that display's the messages in the chat.
 - An entry field for the messages.
