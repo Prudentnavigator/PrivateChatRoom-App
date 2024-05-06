@@ -33,7 +33,7 @@ Note:
 6. Please note that the messages are not encrypted in this version.
 
 Features:
-- Logs are written to the '.client.log' file on a rotating bases (max 2 files).
+- Logs are written to the '.client.log' file on a rotating bases (max 3 files).
 - Ipv4 address and port number used to connect to the server are displayed
    in the GUI.
 - Set ipv4 address button to change the ip address.
