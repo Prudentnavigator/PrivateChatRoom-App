@@ -13,7 +13,7 @@ I hereby agree to use the Software (PrivateChatRoom-Server v1.0.0) solely for my
 5.  This software and its documentation are provided "as is" without warranty
      of any kind, express or implied, including but not limited to the
      warranties of merchantability, fitness for a particular purpose and
-     non-infringement. In no event shall (insert company name) be liable to
+     non-infringement. In no event shall (Thomas Pirchmoser) be liable to
      me or anyone else for any consequential damages, including but not limited
      to lost profits or lost data.
 6.  I am solely responsible for all damage caused by the use of this
