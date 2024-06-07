@@ -10,7 +10,7 @@ operating system, (Windows, Mac, Linux, etc.).
 Usage:
 1. Assure that your device is connected to the internet and the server is
     running.
-2. When starting the program, a pop-up window will request an alias (username).
+2. When starting the program (run gui_client.py from the terminal), a pop-up window will request an alias (username).
 3. Set the IPv4 address of the server and the port number (click on the
     respective buttons) that the server is listening on.
    If the the App was previously connected to the server and the IPv4/port
@@ -31,7 +31,9 @@ Note:
 3. The App logs info for troubleshooting purposes only and does not log messages
     that have been send or received.
     Once the App is closed, the messages disappear.
-4. Please note that the messages are not encrypted in this version.
+5. The application can also be packaged with pyinstaller or other packaging
+    software to a standalone executable.
+5. Please note that the messages are not encrypted in this version.
 
 Features:
 - Logs are written to the '.client.log' file on a rotating bases (max 3 files).
