@@ -4,7 +4,7 @@ This application allows users to communicate privately in real time.
 
 It is designed to be used with the "PrivateChatRoom-Server".
 
-If python3 is installed on your device, this program can be used with any 
+As long as python3 is installed on your device, this program can be used with any 
 operating system, (Windows, Mac, Linux, etc.).
 
 Usage:
