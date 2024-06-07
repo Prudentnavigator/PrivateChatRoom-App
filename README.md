@@ -1,6 +1,7 @@
 PrivateChatRoom-App v1.1.2
 
 This application allows users to communicate privately in real time.
+
 It is designed to be used with the 'PrivateChatRoom-Server'.
 
 If python3 is installed on your device, this program can be used with any 
