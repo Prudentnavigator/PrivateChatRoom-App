@@ -33,7 +33,7 @@ Note:
     Once the App is closed, the messages disappear.
 5. The application can also be packaged with pyinstaller or other packaging
     software to a standalone executable.
-5. Please note that the messages are not encrypted in this version.
+6. Please note that the messages are not encrypted in this version.
 
 Features:
 - Logs are written to the '.client.log' file on a rotating bases (max 3 files).
