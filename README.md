@@ -19,7 +19,7 @@ Usage:
 5. Click 'X' on top-right corner of the window to exit the program.
 
 Requirements:
-- python3.10 or higher version.
+- python3.10 or higher version (may also work with lower versions).
 - Tkinter and all modules used in the App should already be part of the
    python3 installation therefore eliminating the need to install any
    external packages or modules.
