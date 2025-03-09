@@ -22,16 +22,19 @@ operating system, (Windows, Mac, Linux, etc.).\
    python3 installation therefore eliminating the need to install any
    external packages or modules.
 
-Note:
-1. The color of the App is red if there is no internet connection and/or
-    the App is not connected to the server.
-2. When a connection with the server is established the color of the App is green.
-3. The App logs info for troubleshooting purposes only and does not log messages
+[!NOTE]
+>The color of the App is red if there is no internet connection and/or
+    the App is not connected to the server.\
+>When a connection with the server is established the color of the App is green.\
+>The App logs info for troubleshooting purposes only and does not log messages
     that have been send or received.
-    Once the App is closed, the messages disappear.
-5. The application can also be packaged with pyinstaller or other packaging
-    software to a standalone executable.
-6. Please note that the messages are not encrypted in this version.
+    Once the App is closed, the messages disappear.\
+[!TIP]
+>The application can also be packaged with pyinstaller or other packaging
+    software to a standalone executable.\
+
+[!CAUTION]
+>The messages are not encrypted in this version.
 
 ### Features:
 - Logs are written to the '.client.log' file on a rotating bases (max 3 files).
