@@ -22,18 +22,18 @@ operating system, (Windows, Mac, Linux, etc.).\
    python3 installation therefore eliminating the need to install any
    external packages or modules.
 
-[!NOTE]
+>[!NOTE]
 >The color of the App is red if there is no internet connection and/or
     the App is not connected to the server.\
 >When a connection with the server is established the color of the App is green.\
 >The App logs info for troubleshooting purposes only and does not log messages
     that have been send or received.
     Once the App is closed, the messages disappear.\
-[!TIP]
+>[!TIP]
 >The application can also be packaged with pyinstaller or other packaging
     software to a standalone executable.\
 
-[!CAUTION]
+>[!CAUTION]
 >The messages are not encrypted in this version.
 
 ### Features:
