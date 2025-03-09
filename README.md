@@ -1,13 +1,11 @@
-PrivateChatRoom-App v1.1.2
+## <ins>PrivateChatRoom-App v1.1.2</ins>
 
-This application allows users to communicate privately in real time.
-
-It is designed to be used with the "PrivateChatRoom-Server".
-
+This application allows users to communicate privately in real time.\
+It is designed to be used with the "PrivateChatRoom-Server".\
 As long as python3 is installed on your device, this program can be used with any 
-operating system, (Windows, Mac, Linux, etc.).
+operating system, (Windows, Mac, Linux, etc.).\
 
-Usage:
+### Usage:
 1. Assure that your device is connected to the internet and the server is
     running.
 2. When starting the program (run gui_client.py from the terminal), a pop-up window will request an alias (username).
@@ -18,7 +16,7 @@ Usage:
 4. Enter a message in the box below 'Message' and click the 'Send' button.
 5. Click 'X' on top-right corner of the window to exit the program.
 
-Requirements:
+### Requirements:
 - python3.10 or higher version (may also work with lower versions).
 - Tkinter and all modules used in the App should already be part of the
    python3 installation therefore eliminating the need to install any
@@ -35,7 +33,7 @@ Note:
     software to a standalone executable.
 6. Please note that the messages are not encrypted in this version.
 
-Features:
+### Features:
 - Logs are written to the '.client.log' file on a rotating bases (max 3 files).
 - Ipv4 address and port number used to connect to the server are displayed
    in the GUI.
