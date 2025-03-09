@@ -28,10 +28,11 @@ operating system, (Windows, Mac, Linux, etc.).\
 >When a connection with the server is established the color of the App is green.\
 >The App logs info for troubleshooting purposes only and does not log messages
     that have been send or received.
-    Once the App is closed, the messages disappear.\
+    Once the App is closed, the messages disappear.
+
 >[!TIP]
 >The application can also be packaged with pyinstaller or other packaging
-    software to a standalone executable.\
+    software to a standalone executable.
 
 >[!CAUTION]
 >The messages are not encrypted in this version.
