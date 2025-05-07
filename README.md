@@ -5,7 +5,7 @@ It is designed to be used with the 'PrivateChatRoom-Server'.\
 As long as python3 is installed on your device, this program can be used with any 
 operating system, (Windows, Mac, Linux, etc.).
 
-![startupscreen] (/Screenshots/chat.png)
+![startup screen] (/Screenshots/chat.png)
 
 ### Usage:
 1. Assure that your device is connected to the internet and the server is
